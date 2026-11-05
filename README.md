@@ -52,26 +52,26 @@ d)	Steps to Clean Up (Terminate the Instance)
  
 
 
-## Creating S3 Bucket:
+### Creating S3 Bucket:
 <img width="1917" height="1092" alt="image" src="https://github.com/user-attachments/assets/1152310e-1631-4b81-a3f3-7689312281ef" />
 
 
-## Uploading Files in Bucket:
+### Uploading Files in Bucket:
 <img width="1913" height="1086" alt="image" src="https://github.com/user-attachments/assets/cc078699-bfec-4036-99f2-6a8e5fbb541f" />
 
 
-## Launching EC2 Instance:
+### Launching EC2 Instance:
 <img width="1917" height="1088" alt="image" src="https://github.com/user-attachments/assets/0bd557be-e1d9-46f5-b4a6-ba487762e0b5" />
 
 
-## Connecting Instance:
+### Connecting Instance:
 <img width="1917" height="1088" alt="image" src="https://github.com/user-attachments/assets/fe64ee6d-72df-4f00-85c6-d23ccdf8e890" />
 
 
-## Stopping the Instance:
+### Stopping the Instance:
 <img width="1917" height="1088" alt="image" src="https://github.com/user-attachments/assets/d285b511-883d-47ab-b51a-229a86bf012c" />
 
 
-Result:
+## Result:
 Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) - instance has been successfully created and launched in AWS
  
