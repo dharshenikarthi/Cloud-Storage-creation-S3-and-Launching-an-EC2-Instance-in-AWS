@@ -71,6 +71,9 @@ d)	Steps to Clean Up (Terminate the Instance)
 ### Stopping the Instance:
 <img width="1917" height="1088" alt="image" src="https://github.com/user-attachments/assets/d285b511-883d-47ab-b51a-229a86bf012c" />
 
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/3566cf41-9032-4f88-8d17-b983fe8c0b9f" />
+
+
 
 ## Result:
 Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) - instance has been successfully created and launched in AWS
